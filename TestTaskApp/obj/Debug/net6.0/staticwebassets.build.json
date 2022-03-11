@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "eU9tW2vLQCTbFN7WjOjBTZ9aTwK+gZxgMJu38FER1eI=",
+  "Source": "TestTaskApp",
+  "BasePath": "_content/TestTaskApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
